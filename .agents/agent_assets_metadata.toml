@@ -1,0 +1,32 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "rOr7SneVm5ZyPKAYlsk-3"
+uri = "file://artifacts/tax-games/assets/images/icon.png"
+type = "image"
+title = "tax quest app icon"
+
+[[generated]]
+id = "LyPO1elitClIHGuBVfRox"
+uri = "file://artifacts/tax-games/assets/images/quiz_icon.png"
+type = "image"
+title = "quiz game icon"
+
+[[generated]]
+id = "YrfqzrqbzbhxLEgGtYDfg"
+uri = "file://artifacts/tax-games/assets/images/catch_icon.png"
+type = "image"
+title = "catch game icon"
+
+[[generated]]
+id = "1NvmB8OmJvXqfm7jAcb3k"
+uri = "file://artifacts/tax-games/assets/images/budget_icon.png"
+type = "image"
+title = "budget builder icon"
+
+[[generated]]
+id = "V-Mutpj0w7wDJ7qClPbXD"
+uri = "file://artifacts/tax-games/assets/images/trail_icon.png"
+type = "image"
+title = "tax trail icon"
